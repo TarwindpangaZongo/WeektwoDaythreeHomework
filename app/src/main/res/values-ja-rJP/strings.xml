@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="helloworld">" こんにちは世界"</string>
+    <string name="app_name">" こんにちは世界"</string>
+    <string name="Howareyoudoingtoday">ご機嫌はいかがですか？</string>
+    <string name="myNameIsFelix">" 私の名前はFelixです"</string>
+    <string name="loveAndroid">私はアンドロイドで開発が大好きです。</string>
+    <string name="myHobit">私のお気に入りの趣味は星を見つめることです。</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="helloworld">안녕 세상</string>
+    <string name="app_name">안녕 세상</string>
+    <string name="Howareyoudoingtoday">오늘 어떠니?</string>
+    <string name="myNameIsFelix">내 이름은 펠릭스 야.</string>
+    <string name="loveAndroid">" 나는 안드로이드 개발을 좋아합니다."</string>
+    <string name="myHobit">내가 제일 좋아하는 호빗은 별 응시입니다.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="helloworld">Bonjour le monde</string>
+    <string name="app_name">Bonjour le monde</string>
+    <string name="Howareyoudoingtoday">" Comment ça va aujourd'hui?"</string>
+    <string name="myNameIsFelix">Je m\'appelle Felix</string>
+    <string name="loveAndroid">J\'aime développer dans Android.</string>
+    <string name="myHobit">" Mon hobbit préféré regarde les étoiles"</string>
+</resources>
